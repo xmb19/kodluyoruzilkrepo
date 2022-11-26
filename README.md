@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitimi kapsamında açt
 Öncelikle projeyi clonelayalım.
 
 ```
-git clone https://github.com/xmb19/kodluyoruzilkrepo
+git clone https://github.com/xmb19/kodluyoruzilkrepo.git
 ```
 
 # Usage 
