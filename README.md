@@ -30,3 +30,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](C:\Users\xmb01\Documents\GitHub\kodluyoruzilkrepo\LICENSE)
 
+# My Patika Account
+[Murat Bektaş](https://app.patika.dev/murattbektas)
+
